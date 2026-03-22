@@ -1,8 +1,20 @@
 {
   "files": [
-    { "path": "mods/modloader/Skins/maccer.dff" },
-    { "path": "mods/modloader/Skins/maccer.txd" },
-    { "path": "mods/modloader/Skins/ofyri.dff" },
-    { "path": "mods/modloader/Skins/ofyri.txd" }
+    {
+      "path": "mods/modloader/Skins/maccer.dff",
+      "hash": "f6e47f6ce985fef30ca9d24d648cec57"
+    },
+    {
+      "path": "mods/modloader/Skins/maccer.txd",
+      "hash": "8b6241182a534b8188e4c324a133791e"
+    },
+    {
+      "path": "mods/modloader/Skins/ofyri.dff",
+      "hash": "e9fe31831b0fc5eef0d5a957769c5bb7"
+    },
+    {
+      "path": "mods/modloader/Skins/ofyri.txd",
+      "hash": "bdbb4cd51f50c412bfbf5f2e831b2fc9"
+    }
   ]
 }
