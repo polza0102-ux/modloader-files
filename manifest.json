@@ -1,6 +1,14 @@
 {
   "files": [
     {
+      "path": "mods/modloader/Skins/hmydrug.dff",
+      "hash": "431b4b53c0aa3986776f9d9e8e700e78"
+    },
+    {
+      "path": "mods/modloader/Skins/hmydrug.txd",
+      "hash": "3259b540fc9958f8b89fd7e922b916f4"
+    },
+    {
       "path": "mods/modloader/Skins/maccer.dff",
       "hash": "f6e47f6ce985fef30ca9d24d648cec57"
     },
