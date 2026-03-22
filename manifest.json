@@ -15,6 +15,14 @@
     {
       "path": "mods/modloader/Skins/ofyri.txd",
       "hash": "bdbb4cd51f50c412bfbf5f2e831b2fc9"
+    },
+    {
+      "path": "mods/modloader/Skins/wmydrug.dff",
+      "hash": "4db4e3ebcbe1cc8e682ba524978186d8"
+    },
+    {
+      "path": "mods/modloader/Skins/wmydrug.txd",
+      "hash": "87ea1dd0a2663b821c50281fea02ce4a"
     }
   ]
 }
